@@ -1,0 +1,11 @@
+icecast: Icecast (a free server software for streaming multimedia)
+icecast:
+icecast: Icecast is a streaming media server which currently supports Ogg
+icecast: streaming including the vorbis and theora codecs. Also icecast can
+icecast: handle other streams like MP3/AAC/NSV.
+icecast: It can be used to create an Internet radio station or a privately
+icecast: running jukebox and many things in between. It is very versatile in
+icecast: that new formats can be added relatively easily and supports open
+icecast: standards for communication and interaction.
+icecast:
+icecast: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
