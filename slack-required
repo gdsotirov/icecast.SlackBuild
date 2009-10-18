@@ -1,0 +1,13 @@
+curl >= 7.19.6
+cyrus-sasl >= 2.1.23
+glibc-solibs >= 2.9
+libidn >= 1.5
+libogg >= 1.1.3
+libtheora >= 1.0
+libvorbis >= 1.2.0
+libxml2 >= 2.7.3
+libxslt >= 1.1.24
+openldap-client >= 2.3.43
+openssl >= 0.9.8k | openssl-solibs >= 0.9.8k
+speex >= 1.2rc1
+zlib >= 1.2.3
